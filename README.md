@@ -33,6 +33,7 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 
 - Reducing the dimensionality of datasets with Principal Components Analysis (PCA)
 - Using principal components in Principal Components Regression
+- Fitting a Multinomial Logistic Regression Model for Multi-class Classification
 
 ### Homework 6: Trees, Bagging, Random Forests, and Boosting
 
