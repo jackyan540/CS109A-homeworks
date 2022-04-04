@@ -19,7 +19,9 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 
 ### Homework 3: Regression Modeling and Bacteria Growth
 
--
+- Using k-fold cross validation to select best-performing polynomial regression models
+- Using bootstrapping to test the robustness of estimations
+- Applying Regularization to improve the fit of regression models
 
 ### Homework 4: Predicting College Admissions
 
