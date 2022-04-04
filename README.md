@@ -3,4 +3,4 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 
 ----
 
-### Homework 1
+### Homework 1: Data Collection, Parsing, and Quick Analyses
