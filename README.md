@@ -7,3 +7,35 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 # Homework Topics
 
 ### Homework 1: Data Collection, Parsing, and Quick Analyses
+
+- Fetching website data via Requests
+- Using Regular Expressions and BeautifulSoup to parse the website
+- Performing simple data analysis using Pandas
+
+### Homework 2: K-Nearest Neighbors and Linear Regression
+
+-
+
+### Homework 3: Regression Modeling
+
+-
+
+### Homework 4: Predicting College Admissions
+
+-
+
+### Homework 5: High Dimensionality and Principal Components Analysis
+
+-
+
+### Homework 6: Trees, Bagging, Random Forests, and Boosting
+
+-
+
+### Homework 7: Artificial Neural Networks, Model Interpretations, Regularization
+
+-
+
+### Homework 8: Fairness and Bias
+
+-
