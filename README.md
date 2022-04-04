@@ -49,4 +49,4 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 
 ### Homework 8: Fairness and Bias
 
--
+- Examining data on the COMPAS algorithm to identify bias and discrimination in data collection
