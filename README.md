@@ -29,13 +29,14 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 - Using Lasso Regularization and k-Fold Cross Validation to improve model fit
 - Evaluating classification models using Receiver Operating Characteristic (ROC) and Area Under the Curve (AUC)
 
-### Homework 5: High Dimensionality and Principal Components Analysis
+### Homework 5: High Dimensionality and Principal Components Analysis (PCA)
 
--
+- Reducing the dimensionality of datasets with Principal Components Analysis (PCA)
+- Using principal components in Principal Components Regression
 
 ### Homework 6: Trees, Bagging, Random Forests, and Boosting
 
--
+- 
 
 ### Homework 7: Artificial Neural Networks, Model Interpretations, Regularization
 
