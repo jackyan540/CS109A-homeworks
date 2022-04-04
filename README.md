@@ -37,7 +37,9 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 
 ### Homework 6: Trees, Bagging, Random Forests, and Boosting
 
-- 
+- Fitting a Decision Tree and using Cross Validation to select tree depth
+- Using Bagging on Decision Trees and Random Forests to improve model fit
+- Increase the efficient of binary classifiers with AdaBoost
 
 ### Homework 7: Artificial Neural Networks, Model Interpretations, Regularization
 
