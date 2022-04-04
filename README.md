@@ -43,7 +43,9 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 
 ### Homework 7: Artificial Neural Networks, Model Interpretations, Regularization
 
--
+- Fitting an Artificial Neural Network (ANN) with a dense feed-forward network with two hidden layers
+- Building a bagging model and an "abstain" bagging model to make model inferences
+- Using Regularization in Neural Networks to combat overfitting
 
 ### Homework 8: Fairness and Bias
 
