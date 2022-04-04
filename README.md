@@ -4,5 +4,6 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 > Homework specifications and solution contained in Jupyter Notebook files
 
 ----
+# Homework Topics
 
 ### Homework 1: Data Collection, Parsing, and Quick Analyses
