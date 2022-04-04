@@ -14,11 +14,10 @@ Fall 2020 Introduction to Data Science I ([CS 109A](https://harvard-iacs.github.
 
 ### Homework 2: K-Nearest Neighbors and Linear Regression
 
-- Make predictions using K-Nearest Neighors Regression and Simple Linear Regression
-- Evaluating regression models using Mean-Squared Error and R<sup>2</sup>
-- 
+- Make predictions using K-Nearest Neighors Regression and Simple/Multiple Linear Regression
+- Evaluating regression models using Mean-Squared Error, Residual Analysis, and R<sup>2</sup>
 
-### Homework 3: Regression Modeling
+### Homework 3: Regression Modeling and Bacteria Growth
 
 -
 
